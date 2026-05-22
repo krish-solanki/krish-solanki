@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on  <br>- Flutter applications integrated with Firebase  <br><br>👯 I'm looking for  <br>- Full-time or internship opportunities as a Flutter Developer  <br><br>🤝 I'm looking for help with  <br>- Scaling apps and improving performance  <br>- Product growth strategies  <br><br>🌱 I'm currently learning  <br>- Advanced Flutter concepts  <br>- Firebase (Authentication, Firestore, APIs)  <br><br>💬 Ask me about  <br>- Flutter, Firebase, UI/UX Design  <br><br>⚡ Fun fact  <br>- I enjoy building real-world applications that solve practical problems 🚀
+🔭 I'm currently working on  <br>- Flutter applications integrated with Firebase  <br><br>👯 I'm looking for  <br>- Full-time job opportunities as a Flutter Developer  <br><br>🤝 I'm looking for help with  <br>- Scaling apps and improving performance  <br>- Product growth strategies  <br><br>🌱 I'm currently learning  <br>- Advanced Flutter concepts  <br>- Firebase (Authentication, Firestore, APIs)  <br><br>💬 Ask me about  <br>- Flutter, Firebase, UI/UX Design  <br><br>⚡ Fun fact  <br>- I enjoy building real-world applications that solve practical problems 🚀
 
 
 ## 🌐 Socials:
